@@ -1,2 +1,3 @@
-# unity-cookbook-2018-ch14-01-2D-within-rectangle
-chapter 14 - example 1 - keep 2D object movements within rectangle
+# unity-cookbook-2018-ch12-01-2D-within-rectangle
+
+keep 2D object movements within rectangle
